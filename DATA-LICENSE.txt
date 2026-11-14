@@ -27,8 +27,11 @@ The overview extents are adapted from OpenStreetMap under ODbL 1.0:
 https://www.openstreetmap.org/way/216475592
 https://www.openstreetmap.org/way/60667683
 
-Green centers, approximate outlines and display corridors were manually digitized
-from GSI aerial tiles (WGS84 / Web Mercator), separately from the OSM boundaries.
+Revision 3 (reviewed 2026-11-15): visible green edges were manually retraced from
+GSI aerial tiles (WGS84 / Web Mercator), separately from the OSM boundaries.
+Green centers are polygon area centroids. Hand-drawn viewing extents include
+nearby water and bunkers; the compatibility field named fairways stores these
+viewing extents and is not an actual fairway boundary.
 地理院タイル（空中写真）を加工して作成。出典：国土地理院。
 https://maps.gsi.go.jp/development/ichiran.html#seamlessphoto
 https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html
