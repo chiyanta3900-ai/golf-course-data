@@ -1,0 +1,34 @@
+Course geometry: © OpenStreetMap contributors, ODbL 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+gstyle.json is an adapted OSM database: green and fairway geometries are from
+OpenStreetMap. Green polygon area centroids and manually matched hole numbers
+have been added. The database is available under ODbL 1.0, separately from the
+application code. The rebuilding script and source links accompany the project.
+
+Retrieved 2026-11-13:
+https://api.openstreetmap.org/api/0.6/map?bbox=134.32,34.985,134.35,35.01
+Course boundary: https://www.openstreetmap.org/way/1154776770
+
+Hole identities and par values were checked against:
+https://www.gstylesayou.com/course.html
+https://www.gstylesayou.com/images/course/layout.jpg
+The official illustration is not distributed in this app.
+
+Background aerial photographs: Geospatial Information Authority of Japan.
+https://maps.gsi.go.jp/development/ichiran.html
+https://maps.gsi.go.jp/help/use.html
+Photographs are retrieved from the GSI tile service at runtime and overlaid
+with estimated green centers and recorded shot positions.
+
+ichikawa.json and mikazuki.json (2026-11-14):
+The overview extents are derived from the following OSM course boundaries,
+and are provided under ODbL 1.0. They are NOT green coordinates.
+https://www.openstreetmap.org/way/216475592
+https://www.openstreetmap.org/way/60667683
+Names, hole pairing and par facts were checked against the clubs' public guides:
+https://ichikawa-golf.com/course-guide/
+https://booking.pacificgolf.co.jp/?cc_id=103&p=guide.course_layout
+No official illustrations are included. Hole-to-green coordinates remain
+unverified; no distance to a green or green outline is displayed for these packs.
