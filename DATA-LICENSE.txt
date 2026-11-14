@@ -22,13 +22,21 @@ https://maps.gsi.go.jp/help/use.html
 Photographs are retrieved from the GSI tile service at runtime and overlaid
 with estimated green centers and recorded shot positions.
 
-ichikawa.json and mikazuki.json (2026-11-14):
-The overview extents are derived from the following OSM course boundaries,
-and are provided under ODbL 1.0. They are NOT green coordinates.
+ichikawa.json and mikazuki.json (2026-11-14, hole-level estimates):
+The overview extents are adapted from OpenStreetMap under ODbL 1.0:
 https://www.openstreetmap.org/way/216475592
 https://www.openstreetmap.org/way/60667683
-Names, hole pairing and par facts were checked against the clubs' public guides:
+
+Green centers, approximate outlines and display corridors were manually digitized
+from GSI aerial tiles (WGS84 / Web Mercator), separately from the OSM boundaries.
+地理院タイル（空中写真）を加工して作成。出典：国土地理院。
+https://maps.gsi.go.jp/development/ichiran.html#seamlessphoto
+https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html
+Coordinates/outlines are estimates, not surveys or field-verified positions.
+Display corridors are viewing aids, not surveyed fairway, hazard or OB boundaries.
+
+Names, hole identities, pairing and par facts were cross-checked with official guides:
 https://ichikawa-golf.com/course-guide/
 https://booking.pacificgolf.co.jp/?cc_id=103&p=guide.course_layout
-No official illustrations are included. Hole-to-green coordinates remain
-unverified; no distance to a green or green outline is displayed for these packs.
+Official illustrations, photographs, text and third-party course databases are not
+included in this feed. Reference images remain local research material only.
