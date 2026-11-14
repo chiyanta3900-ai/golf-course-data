@@ -32,6 +32,12 @@ GSI aerial tiles (WGS84 / Web Mercator), separately from the OSM boundaries.
 Green centers are polygon area centroids. Hand-drawn viewing extents include
 nearby water and bunkers; the compatibility field named fairways stores these
 viewing extents and is not an actual fairway boundary.
+Revision 4 corrects approximate camera-start references and viewing routes,
+including the mistaken 6H/11H tee-side relationship and 18H route at Mikazuki.
+Numbered public drone frames were viewed as research references only:
+https://booking.gora.golf.rakuten.co.jp/guide/course_info/drone/disp/c_id/280137
+No drone frames, video, proprietary app course database or official artwork is
+included in the feed. Framing anchors are not surveyed tee coordinates.
 地理院タイル（空中写真）を加工して作成。出典：国土地理院。
 https://maps.gsi.go.jp/development/ichiran.html#seamlessphoto
 https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html
