@@ -49,3 +49,13 @@ https://ichikawa-golf.com/course-guide/
 https://booking.pacificgolf.co.jp/?cc_id=103&p=guide.course_layout
 Official illustrations, photographs, text and third-party course databases are not
 included in this feed. Reference images remain local research material only.
+
+Revision 5: all 45 physical holes / 54 numbered holes were individually compared
+with the official numbered guides and georeferenced GSI aerial photographs.
+Ichikawa greens and routes were corrected using the 2020 annual GSI imagery,
+separating grass from sand and retaining distinct OUT/IN published yardages.
+https://maps.gsi.go.jp/development/ichiran.html#nendophoto
+The official Ichikawa gallery includes generic stock photographs and was not
+used for geographic hole matching. No official artwork or drone frames are
+included in the published database. Tee-area references remain approximate
+camera references, not surveyed tees. Field/GPS accuracy remains unverified.
